@@ -1,7 +1,9 @@
 # Code of conduct
 
 Be respectful
+
 Embrace diversity
+
 No harassment
 Mindful language
 Stay on topic
